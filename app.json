@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "MathVerse",
+    "slug": "mathverse-ch1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}
