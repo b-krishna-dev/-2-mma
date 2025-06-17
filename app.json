@@ -11,9 +11,21 @@
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
-    "assetBundlePatterns": ["**/*"],
     "updates": {
       "fallbackToCacheTimeout": 0
-    }
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.bkrishna.mathverse"
+    },
+    "android": {
+      "package": "com.bkrishna.mathverse"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "mathverse-project-id"
+      }
+    },
+    "sdkVersion": "50.0.0"
   }
 }
