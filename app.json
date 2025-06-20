@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MathVerse",
-    "slug": "mathverse-ch1",
+    "slug": "12-mma",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
@@ -23,7 +23,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "mathverse-project-id"
+        "projectId": "914eeb0e-9ba6-4940-b1d9-86342092dc96"
       }
     },
     "sdkVersion": "50.0.0"
